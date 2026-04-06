@@ -1,0 +1,7 @@
+# SYSTEM TOOLKIT
+
+alias ports='ss -tulnp'
+alias proc='ps aux --sort=-%mem | head'
+alias mem='free -h'
+alias disk='df -h'
+alias netstat='ss -tunap'
